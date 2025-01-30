@@ -1,1 +1,2 @@
 Hi from file
+Added initial project goals and scope
